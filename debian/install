@@ -39,7 +39,7 @@ application/view/backupjob-report.tpl var/www/bacula-web/application/view
 application/view/cache/README var/www/bacula-web/application/view/cache
 application/view/client-report.tpl var/www/bacula-web/application/view
 application/view/footer.tpl var/www/bacula-web/application/view
-application/view/header.tpl var/www/bacula-web/application/view/header.tpl
+application/view/header.tpl var/www/bacula-web/application/view
 application/view/index.tpl var/www/bacula-web/application/view
 application/view/joblogs.tpl var/www/bacula-web/application/view
 application/view/jobs.tpl var/www/bacula-web/application/view
