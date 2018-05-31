@@ -10,3 +10,5 @@ application/locale/en_EN/LC_MESSAGES/messages.mo
 application/locale/zh_CN/LC_MESSAGES/messages.mo
 application/locale/ja_JP/LC_MESSAGES/messages.mo
 application/locale/es_ES/LC_MESSAGES/messages.mo
+core/vendor/moment/moment-with-locales.min.js
+core/vendor/jquery-1.11.1/jquery-1.11.1.min.js

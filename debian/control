@@ -3,7 +3,7 @@ Section: web
 Priority: optional
 Maintainer: Walter Kleynscheldt - Hetzner ZA <walter.kleynscheldt@hetzner.co.za>
 Build-Depends: debhelper (>= 7.0.50~)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.6
 Homepage: http://bacula-web.org/
 #Vcs-Git: git://git.debian.org/collab-maint/bacula-web.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/bacula-web.git;a=summary
