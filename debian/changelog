@@ -1,3 +1,9 @@
+bacula-web (7.4.0-1+hetz3) jessie-hetz; urgency=medium
+
+  * Released 7.4.0-1+hetz3~exp2 as 7.4.0-1+hetz3
+
+ -- Shaun Bugler - Hetzner <sb@hetzner.co.za>  Thu, 31 May 2018 16:02:32 +0200
+
 bacula-web (7.4.0-1+hetz3~exp2) jessie-hetz-experimental; urgency=medium
 
   * Didnt add all the files 
