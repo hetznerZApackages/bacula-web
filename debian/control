@@ -10,7 +10,7 @@ Homepage: http://bacula-web.org/
 
 Package: bacula-web
 Architecture: any
-Depends: ${misc:Depends}, apache2, php5, php5-gd, php5-pgsql
+Depends: ${misc:Depends}, apache2, php7.3, php7.3-gd, php7.3-pgsql, php7.3-json, php7.3-cli
 Description: Web based monitoring and reporting gui for Bacula.
   Bacula-Web is a php web based tool that provide you a summarised view of jobs, pools and volumes.
   It obtains its information from your bacula catalog database.

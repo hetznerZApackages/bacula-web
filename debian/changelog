@@ -1,3 +1,9 @@
+bacula-web (7.4.0-1+deb9hetz1~exp3) stretch-hetz-experimental; urgency=medium
+
+  * Adjust php5 dependencies to php7.3
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Fri, 26 Jun 2020 10:41:07 +0200
+
 bacula-web (7.4.0-1+deb9hetz1~exp2) stretch-hetz-experimental; urgency=medium
 
   * Copy-artifacts got in the way - try again
