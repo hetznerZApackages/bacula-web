@@ -1,3 +1,9 @@
+bacula-web (7.4.0-1+deb9hetz1) stretch-hetz; urgency=medium
+
+  * Released 7.4.0-1+deb9hetz1~exp3 as 7.4.0-1+deb9hetz1
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Fri, 26 Jun 2020 12:00:19 +0200
+
 bacula-web (7.4.0-1+deb9hetz1~exp3) stretch-hetz-experimental; urgency=medium
 
   * Adjust php5 dependencies to php7.3
