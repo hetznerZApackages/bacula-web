@@ -1,0 +1,14 @@
+application/locale/fr_FR/LC_MESSAGES/messages.mo
+application/locale/no_NO/LC_MESSAGES/messages.mo
+application/locale/it_IT/LC_MESSAGES/messages.mo
+application/locale/de_DE/LC_MESSAGES/messages.mo
+application/locale/sv_SV/LC_MESSAGES/messages.mo
+application/locale/ru_RU/LC_MESSAGES/messages.mo
+application/locale/nl_NL/LC_MESSAGES/messages.mo
+application/locale/pt_BR/LC_MESSAGES/messages.mo
+application/locale/en_EN/LC_MESSAGES/messages.mo
+application/locale/zh_CN/LC_MESSAGES/messages.mo
+application/locale/ja_JP/LC_MESSAGES/messages.mo
+application/locale/es_ES/LC_MESSAGES/messages.mo
+core/vendor/moment/moment-with-locales.min.js
+core/vendor/jquery-1.11.1/jquery-1.11.1.min.js
