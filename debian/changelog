@@ -1,3 +1,9 @@
+bacula-web (7.4.0-1+hetz2~exp1) stretch-hetz-experimental; urgency=medium
+
+  * Copy-artifacts got in the way - try again
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Fri, 26 Jun 2020 10:27:01 +0200
+
 bacula-web (7.4.0-1+deb9hetz1~exp1) stretch-hetz-experimental; urgency=medium
 
   * Inital Stretch release
